@@ -5,7 +5,9 @@
 	],
 	"diamond": [],
 	"emerald": [],
-	"gold": [],
+	"gold": [
+		{ "name": "Lexedia", "pic": "lexedia.png", "date": "2023-09-01" }
+	],
 	"silver": [],
 	"bronze": [
 		{ "name": "fabbe50", "pic": "fabbe50.png", "date": "2022-10-04" },
